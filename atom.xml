@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[井田志-心流]]></title>
+  <link href="http://boycottangent.xyz/Jingtz/atom.xml" rel="self"/>
+  <link href="http://boycottangent.xyz/Jingtz/"/>
+  <updated>2019-05-21T19:36:19+08:00</updated>
+  <id>http://boycottangent.xyz/Jingtz/</id>
+  <author>
+    <name><![CDATA[]]></name>
+    
+  </author>
+  <generator uri="http://www.mweb.im">MWeb</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[心流]]></title>
+    <link href="http://boycottangent.xyz/Jingtz/flow.html"/>
+    <updated>2019-05-21T18:51:28+08:00</updated>
+    <id>http://boycottangent.xyz/Jingtz/flow.html</id>
+    <content type="html"><![CDATA[
+<p>test</p>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[井田之美]]></title>
+    <link href="http://boycottangent.xyz/Jingtz/grid.html"/>
+    <updated>2019-05-21T18:51:03+08:00</updated>
+    <id>http://boycottangent.xyz/Jingtz/grid.html</id>
+    <content type="html"><![CDATA[
+<p>test</p>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[月计划管理]]></title>
+    <link href="http://boycottangent.xyz/Jingtz/month-planner.html"/>
+    <updated>2019-05-21T18:50:46+08:00</updated>
+    <id>http://boycottangent.xyz/Jingtz/month-planner.html</id>
+    <content type="html"><![CDATA[
+<p>test</p>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[一日计划管理]]></title>
+    <link href="http://boycottangent.xyz/Jingtz/day-planner.html"/>
+    <updated>2019-05-21T18:50:11+08:00</updated>
+    <id>http://boycottangent.xyz/Jingtz/day-planner.html</id>
+    <content type="html"><![CDATA[
+<p>test</p>
+
+]]></content>
+  </entry>
+  
+</feed>
