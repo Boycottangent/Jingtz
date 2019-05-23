@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[井田志-心流]]></title>
-  <link href="http://boycottangent.xyz/Jingtz/atom.xml" rel="self"/>
-  <link href="http://boycottangent.xyz/Jingtz/"/>
-  <updated>2019-05-22T20:41:46+08:00</updated>
-  <id>http://boycottangent.xyz/Jingtz/</id>
+  <link href="http://botlog.in/Jingtz/atom.xml" rel="self"/>
+  <link href="http://botlog.in/Jingtz/"/>
+  <updated>2019-05-23T14:08:05+08:00</updated>
+  <id>http://botlog.in/Jingtz/</id>
   <author>
     <name><![CDATA[]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[关于]]></title>
-    <link href="http://boycottangent.xyz/Jingtz/about.html"/>
+    <link href="http://botlog.in/Jingtz/about.html"/>
     <updated>2019-05-22T19:56:37+08:00</updated>
-    <id>http://boycottangent.xyz/Jingtz/about.html</id>
+    <id>http://botlog.in/Jingtz/about.html</id>
     <content type="html"><![CDATA[
 <p>井田志·心流（JingTianZhi Flow）系列是基于手账设计品牌九口山的热门计划手账产品“井田志”的<del>魔改版本</del>衍生系列产品。致力于用心理学的科学元素和视觉理念将自我管理手账的哲学进一步发扬光大。</p>
 
@@ -55,9 +55,9 @@
   
   <entry>
     <title type="html"><![CDATA[井田之美]]></title>
-    <link href="http://boycottangent.xyz/Jingtz/grid.html"/>
+    <link href="http://botlog.in/Jingtz/grid.html"/>
     <updated>2019-05-21T18:51:03+08:00</updated>
-    <id>http://boycottangent.xyz/Jingtz/grid.html</id>
+    <id>http://botlog.in/Jingtz/grid.html</id>
     <content type="html"><![CDATA[
 <p>井田志，是以汉字书写为基础的个人管理手账，在充分理解汉字特色的基础上，方格设计展现汉字书写的弹性空间，比起一般的内页设计更能适应中国人的书写需求。<br/>
 <figure><img src="media/15584358638368/15584472261879.jpg" alt="" style="width:791px;"/></figure></p>
@@ -98,9 +98,9 @@
   
   <entry>
     <title type="html"><![CDATA[心流]]></title>
-    <link href="http://boycottangent.xyz/Jingtz/flow.html"/>
+    <link href="http://botlog.in/Jingtz/flow.html"/>
     <updated>2019-05-21T18:51:28+08:00</updated>
-    <id>http://boycottangent.xyz/Jingtz/flow.html</id>
+    <id>http://botlog.in/Jingtz/flow.html</id>
     <content type="html"><![CDATA[
 <blockquote>
 <p><i class="fas fa-quote-left fa-3x fa-pull-left"></i><br/>
@@ -137,9 +137,9 @@
   
   <entry>
     <title type="html"><![CDATA[产品详情]]></title>
-    <link href="http://boycottangent.xyz/Jingtz/detail.html"/>
+    <link href="http://botlog.in/Jingtz/detail.html"/>
     <updated>2019-05-21T22:46:05+08:00</updated>
-    <id>http://boycottangent.xyz/Jingtz/detail.html</id>
+    <id>http://botlog.in/Jingtz/detail.html</id>
     <content type="html"><![CDATA[
 <h2 id="toc_0"><figure><img src="media/15584332521791/15584342785470.jpg" alt=""/></figure></h2>
 
@@ -149,18 +149,20 @@
 <figure><img src="media/15584499653160/TB2MXYejRcHL1JjSZJiXXcKcpXa_!!67311095.jpg" alt="装帧延续九口山原创设计，书脊金色标签更新为布质，更耐翻折"/><figcaption>装帧延续九口山原创设计，书脊金色标签更新为布质，更耐翻折</figcaption></figure><br/>
 <figure><img src="media/15584499653160/TB2WYBhXURIWKJjSZFgXXboxXXa_!!67311095.jpg" alt="可完全平摊的装订结构"/><figcaption>可完全平摊的装订结构</figcaption></figure></p>
 
+<p><figure><img src="media/15584499653160/TB2KOHUh5qAXuNjy1XdXXaYcVXa_!!67311095.jpg" alt="可以裁剪自己喜欢的图画或自己DIY图片自定义"/><figcaption>可以裁剪自己喜欢的图画或自己DIY图片自定义</figcaption></figure></p>
+
 <div style="font-weight:bold;text-align:center;font-size:1.5em;color:#a02217">详细参数</div>
 </br>
-<p><figure><img src="media/15584499653160/15584533646787.jpg" alt=""/></figure></p>
+<p><figure><img src="media/15584499653160/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202019-05-23%2012.20.14.png" alt=""/></figure></p>
 
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[新手上路]]></title>
-    <link href="http://boycottangent.xyz/Jingtz/starting.html"/>
+    <link href="http://botlog.in/Jingtz/starting.html"/>
     <updated>2019-05-22T16:02:13+08:00</updated>
-    <id>http://boycottangent.xyz/Jingtz/starting.html</id>
+    <id>http://botlog.in/Jingtz/starting.html</id>
     <content type="html"><![CDATA[
 <p><figure><img src="media/15585121335906/15585157330810.gif" alt=""/></figure></p>
 
@@ -234,9 +236,9 @@
   
   <entry>
     <title type="html"><![CDATA[如何使用日计划页？]]></title>
-    <link href="http://boycottangent.xyz/Jingtz/day-planner.html"/>
+    <link href="http://botlog.in/Jingtz/day-planner.html"/>
     <updated>2019-05-21T18:50:11+08:00</updated>
-    <id>http://boycottangent.xyz/Jingtz/day-planner.html</id>
+    <id>http://botlog.in/Jingtz/day-planner.html</id>
     <content type="html"><![CDATA[
 <p>日计划页面采用原创的内页格式设计，为纸面任务管理带来时间轴。将方格巧妙转化为时间表，每日计划安排一目了然。你可以根据自己的使用习惯，将页面划分为不同区域，有序记录自己的日程和每日灵感、反思总结等。你还可以搭配不同颜色的荧光笔或记号笔，轻松实现高亮、打卡等特殊功能需求。甚至，如果你想为自己的井田志增添一点趣味性，不妨把页面作为画版，为不同的方块填上不同颜色，来画一幅像素画吧！</p>
 
@@ -252,9 +254,9 @@
   
   <entry>
     <title type="html"><![CDATA[如何使用月计划页？]]></title>
-    <link href="http://boycottangent.xyz/Jingtz/month-planner.html"/>
+    <link href="http://botlog.in/Jingtz/month-planner.html"/>
     <updated>2019-05-21T18:50:46+08:00</updated>
-    <id>http://boycottangent.xyz/Jingtz/month-planner.html</id>
+    <id>http://botlog.in/Jingtz/month-planner.html</id>
     <content type="html"><![CDATA[
 <p>面积更大的月计划页可以容纳了你一整个月的雄心壮志。一个横页代表一个月，一个大方格代表一天，你可以随心所欲地在其中添加自己的安排。左侧边栏和底部横栏可以用于书写总结性的文字内容，使零碎的生活充满意义。</p>
 
@@ -267,9 +269,9 @@
   
   <entry>
     <title type="html"><![CDATA[如何使用年计划页？]]></title>
-    <link href="http://boycottangent.xyz/Jingtz/year-planner.html"/>
+    <link href="http://botlog.in/Jingtz/year-planner.html"/>
     <updated>2019-05-22T11:26:21+08:00</updated>
-    <id>http://boycottangent.xyz/Jingtz/year-planner.html</id>
+    <id>http://botlog.in/Jingtz/year-planner.html</id>
     <content type="html"><![CDATA[
 <p>相比于月计划页进一步凝练的年计划页给予你更自由的安排，同时完全自定义的年历减少你的使用压力，从现在开始进行计划吧！从日计划到年计划，你的工作界面从详细变得简洁，快速直达全年工作的重点和亮点。</p>
 
@@ -281,9 +283,9 @@
   
   <entry>
     <title type="html"><![CDATA[目录 & 愿望清单页的妙用]]></title>
-    <link href="http://boycottangent.xyz/Jingtz/list-page.html"/>
+    <link href="http://botlog.in/Jingtz/list-page.html"/>
     <updated>2019-05-22T11:26:32+08:00</updated>
-    <id>http://boycottangent.xyz/Jingtz/list-page.html</id>
+    <id>http://botlog.in/Jingtz/list-page.html</id>
     <content type="html"><![CDATA[
 <p>井田志·心流提供了4页纵向排布的页面，作为愿望清单和目录页，你可以自由安排。目录页面结合日、月、年3种计划页实现日期检索，也可搭配每页顶部的页码进行精准定位，便于总结回顾。你也可以利用清单页面制作读书、追剧记录，不妨使用小方格进行进度管理，紧张学习生活之余适当放松更加有益！</p>
 
@@ -296,9 +298,9 @@
   
   <entry>
     <title type="html"><![CDATA[打卡页面示范]]></title>
-    <link href="http://boycottangent.xyz/Jingtz/checkin-page.html"/>
+    <link href="http://botlog.in/Jingtz/checkin-page.html"/>
     <updated>2019-05-22T11:27:10+08:00</updated>
-    <id>http://boycottangent.xyz/Jingtz/checkin-page.html</id>
+    <id>http://botlog.in/Jingtz/checkin-page.html</id>
     <content type="html"><![CDATA[
 <p>两张打卡页通过内折隐藏在手账本的最后，展开后呈现横向的打卡页面可供你自由进行打卡记录，你可以使用打勾标记，也可以制作美丽的条形或折线统计图，追踪你习惯养成的行为趋势。</p>
 
@@ -311,9 +313,9 @@
   
   <entry>
     <title type="html"><![CDATA[更多]]></title>
-    <link href="http://boycottangent.xyz/Jingtz/others.html"/>
+    <link href="http://botlog.in/Jingtz/others.html"/>
     <updated>2019-05-22T20:29:08+08:00</updated>
-    <id>http://boycottangent.xyz/Jingtz/others.html</id>
+    <id>http://botlog.in/Jingtz/others.html</id>
     <content type="html"><![CDATA[
 <p>作为一款热销的计划手账，井田志在消费中获得广泛好评，你可以在下方的网站/视频中获得其他消费者关于井田志的使用心得和体会。</p>
 
